@@ -1,0 +1,13 @@
+# YouTube Video URLs for Analysis
+# Add 4 YouTube video URLs below (one per line)
+# The script will auto-fetch metadata and classify as high/low performers
+#
+# Example:
+# https://youtube.com/watch?v=dQw4w9WgXcQ
+# https://youtube.com/watch?v=jNQXAC9IVRw
+# ...
+
+https://youtu.be/1Q1_F2AqZck?si=ltQTgedDzEb9Kb9e
+https://youtu.be/pI6LbB6hf4A?si=jI-EyvE9d40QXaSh
+https://youtu.be/BjaQASUORjQ?si=PUrbxowB7DeKvxrn
+https://youtu.be/S8aQBEAT7h8?si=1IxILOMehsGl2xE6
